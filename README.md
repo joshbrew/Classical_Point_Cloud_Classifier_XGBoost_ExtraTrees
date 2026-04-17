@@ -13,4 +13,4 @@ Top view, you can see the top right corner and the flat buildings get garbled, b
 Side view:
 <img width="1601" height="112" alt="full_HierarchicalExtraTreesTunedContextKNN_side_detailed" src="https://github.com/user-attachments/assets/6f599902-b94f-4a61-8bd5-103b7da67e26" />
 
-Pretty neat! The training data was very limited with a lack of variety so this is about as good as you could do without more samples. The model generalizes to any amount of classes and sample data, and is chunked up for laptop-scale ops. This is just a resources for whoever to reference.
+Pretty neat! This is about as good as you could do without more samples. The model generalizes to any amount of classes and sample data, and is chunked up for laptop-scale ops. This is just a resource for whoever to reference.
